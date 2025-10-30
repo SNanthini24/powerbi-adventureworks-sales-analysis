@@ -73,7 +73,7 @@ RETURN DIVIDE(CurrentYear - PreviousYear, PreviousYear)
 
 📁 Project Files
 
-AdventureWorks_Dashboard.pbix — Power BI project file
+AdventureWorks_Analysis.pbix — Power BI project file
 
 AdventureWorks_Data.csv — Cleaned dataset
 
@@ -108,3 +108,4 @@ Nanthini S
 Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
 📧 nanthinisakthinathan@gmail.com
+
