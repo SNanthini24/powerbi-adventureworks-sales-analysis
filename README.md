@@ -75,7 +75,7 @@ RETURN DIVIDE(CurrentYear - PreviousYear, PreviousYear)
 
 AdventureWorks_Dashboard.pbix — Power BI project file
 
-AdventureWorks_Data.xlsx — Cleaned dataset
+AdventureWorks_Data.csv — Cleaned dataset
 
 README.md — Documentation (this file)
 
@@ -106,4 +106,5 @@ https://1drv.ms/u/c/13dddcd7d54447e8/EdXUCObf-Z5EjWzW2mVRcEQBjW2GxOVc6y-Gwr8KaLz
 
 Nanthini S
 Aspiring Data Analyst | SQL | Power BI | Excel | Python
+
 📧 nanthinisakthinathan@gmail.com
